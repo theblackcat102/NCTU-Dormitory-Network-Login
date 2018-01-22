@@ -5,5 +5,5 @@
 -  `pip install -r requirements.txt`
 
 ## Login
-- `./login.py -u <username> -p <password>`
+- `(env)$ python login.py -u <username> -p <password>`
 
