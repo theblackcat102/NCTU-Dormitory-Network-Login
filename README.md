@@ -1,7 +1,9 @@
 # NCTU-Dormitory-Network-Login
 
-## Login
-- `./login.py -u <username> -p <password> --login`
+## Install required packages
+- `virtualenv -p python3 env && source env/bin/activate`
+-  `pip install -r requirements.txt`
 
-## Logout
-- `./login.py --logout`
+## Login
+- `./login.py -u <username> -p <password>`
+
